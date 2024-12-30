@@ -1,13 +1,5 @@
 # [MESS PORTAL](https://mess.dashroshan.com)
 
-[**A D3 Fest Hackathon submission**](https://d3fest.tech)
-
-### Team members:
-
-- Roshan Dash (Developer)
-- Subhajit Chatterjee (UI/UX, Documentation)
-
-### ▶️ [View it on YouTube](https://www.youtube.com/watch?v=QqCdYTh8L7o)
 
 ## 🧱 PROBLEM STATEMENT
 
@@ -99,4 +91,4 @@ Develop a solution for mess management. The solution should provide facilities t
 
     The admin can press "Scan New" to check a new QR code.
 
-## ❤️ Team Zenith
+
